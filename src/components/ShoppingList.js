@@ -9,9 +9,7 @@ function ShoppingList() {
       });
     return (
         <ul>
-
         {renderedItems}
-
         </ul>
     )
 }
